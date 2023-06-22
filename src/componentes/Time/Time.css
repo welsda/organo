@@ -1,0 +1,24 @@
+.time {
+    text-align: center;
+    padding: 34px;
+}
+
+.time h3 {
+    font-size: 32px;
+    font-weight: 400;
+    font-family: 'Prata';
+}
+
+.time span {
+    position: relative;
+    border-bottom: 4px solid;
+    display: inline-block;
+    width: 32px;
+    bottom: 30px;
+}
+
+.time .colaboradores {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

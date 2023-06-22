@@ -1,0 +1,19 @@
+.titulo {
+    text-align: center;
+    margin-bottom: 80px;
+    color: #6278F7;
+}
+
+.titulo h1 {
+    font-family: 'Prata';
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.titulo span {
+    position: relative;
+    border-bottom: 4px solid;
+    display: inline-block;
+    width: 64px;
+    bottom: 15px;
+}
